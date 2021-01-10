@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import './styles.css';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import AsyncSelect from 'react-select/async';
